@@ -51,7 +51,8 @@ body {
 }
 
 .ky-text {
-    font-size: var(--bodyFontSize);
+    font-size: 1.2rem;
+    font-weight: bold;
     line-height: 1.5em;
     text-align: inherit;
     width: 100%;
